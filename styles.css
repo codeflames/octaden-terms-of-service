@@ -1,7 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    padding-left: 100px;
-    padding-right: 100px;
 }
 
 h1 {
@@ -35,4 +33,20 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* Desktop styles */
+@media (min-width: 992px) {
+    body {
+        padding-left: 500px;
+        padding-right: 500px;
+    }
+}
+
+/* Mobile styles */
+@media (max-width: 991px) {
+    body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 }
