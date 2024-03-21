@@ -1,0 +1,49 @@
+# Octaden Mobile Marketing - Terms and Conditions
+
+Welcome to Octaden Mobile Marketing, provided by Attenvo Technologies.
+These terms and conditions outline the rules and regulations for the use of the Octaden Mobile Marketing application.
+
+By accessing this application, we assume you accept these terms and conditions. 
+Do not continue to use Octaden Mobile Marketing if you do not agree to all of the terms and conditions stated on this page.
+
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements
+"Client", "You" and "Your" refers to you, the person log on this application and compliant to the Company’s terms and conditions. 
+"The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. 
+All terms refer to the offer, acceptance, and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of the United States. 
+Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+
+## License
+
+Unless otherwise stated, Attenvo Technologies and/or its licensors own the intellectual property rights for all material on Octaden Mobile Marketing. All intellectual property rights are reserved. You may access this from Octaden Mobile Marketing for your own personal use subjected to restrictions set in these terms and conditions.
+
+You must not:
+
+- Republish material from Octaden Mobile Marketing
+- Sell, rent or sub-license material from Octaden Mobile Marketing
+- Reproduce, duplicate or copy material from Octaden Mobile Marketing
+- Redistribute content from Octaden Mobile Marketing
+
+This Agreement shall begin on the date hereof.
+
+## Content
+
+Our application allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material. You are responsible for the content you post to Octaden Mobile Marketing.
+
+## Links To Other Web Sites
+
+Our application may contain links to third-party web sites or services that are not owned or controlled by Attenvo Technologies.
+
+Attenvo Technologies has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services. You further acknowledge and agree that Attenvo Technologies shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
+## Changes to Terms and Conditions
+
+We reserve the right, at our sole discretion, to modify or replace these terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+By continuing to access or use our application after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the application.
+
+## Contact Us
+
+If you have any questions about these terms and conditions, you can contact us:
+
+- By email: info@attenvo.com
+- By visiting this page on our website: [https://attenvo.com/contact-us](https://attenvo.com/contact-us)
